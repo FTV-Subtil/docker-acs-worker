@@ -1,2 +1,2 @@
-# Docker image for Subtil Automatic Content Synchronization
-ACS process environment on a `ubuntu:artful` Docker image
+# Docker image for Subtil ACS
+Automatic Content Synchronization process environment on a `ubuntu:artful` Docker image
