@@ -1,0 +1,3 @@
+[submodule "py_command_line_worker"]
+	path = py_command_line_worker
+	url = https://github.com/FTV-Subtil/py_command_line_worker
