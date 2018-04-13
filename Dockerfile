@@ -27,7 +27,7 @@ RUN apt-get update && \
       libsnappy1v5 \
       libxml2 \
       liborc-0.4-0 && \
-    git clone https://github.com/FTV-Subtil/py_command_line_worker.git && \
+    git clone --recurse-submodules https://github.com/FTV-Subtil/py_command_line_worker.git && \
     cd py_command_line_worker && \
     pip3 install -r requirements.txt
 
